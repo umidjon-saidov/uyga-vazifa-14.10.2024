@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "700";
+  src: url(/fonts/NotoSans-Bold.ttf);
+}
+@font-face {
+  font-family: "400";
+  src: url(/fonts/NotoSans-Regular.ttf);
+}
+@font-face {
+  font-family: "400-2";
+  src: url(/fonts/Minecrafter.Reg.ttf);
+}
+@font-face {
+  font-family: "400-3";
+  src: url(/fonts/Minecrafter.Alt.ttf);
+}
+@font-face {
+  font-family: "500";
+  src: url(/fonts/Micro5-Regular.ttf);
+}
+@font-face {
+  font-family: "800";
+  src: url(/fonts/Inter-Black.ttf);
+}
+@font-face {
+  font-family: "500-2";
+  src: url(/fonts/NotoSans-Medium.ttf);
+}
